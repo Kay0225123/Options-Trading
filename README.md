@@ -1,18 +1,18 @@
 """
-# OptionsViz
+# Options Visualizer
 
-Um visualizador simples de opções europeias utilizando o modelo de Black-Scholes.
+A simple visualizer of european options using the Black-Scholes model for pricing options.
 
-## Funcionalidades
-- Cálculo de preços de calls e puts europeias
-- Gráficos 2D e 3D das opções
+## Functionalities
+- Pricing options
+- 2D and 3D graphics of options.
 
-## Requisitos
+## Requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-## Como usar
+## How to use it 
 ```bash
 python main.py
 ```
