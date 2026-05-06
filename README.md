@@ -5,7 +5,7 @@
 A simple visualizer of european options using the Black-Scholes model for pricing options. 
 
 The Options Visualizer utilizes the Black-Scholes model to price and numpy
-visualize the price.
+visualize the fair price of an option.
 
 ## Functionalities
 - Pricing options
