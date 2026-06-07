@@ -8,7 +8,7 @@ It plots two graphs side by side, one for call options and one for put options a
 
 ## Functionalities
 - Pricing options
-- 2D and 3D graphics of options.
+- 2D and 3D graphics of options (the 3D part is still in development).
 
 ## Requirements
 ```bash
